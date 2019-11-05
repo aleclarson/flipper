@@ -119,7 +119,7 @@
     "adbkit": "^2.11.1",
     "adbkit-logcat": "^2.0.1",
     "algoliasearch": "^3.34.0",
-    "ansi-to-html": "^0.6.3",
+    "ansi-to-html": "^0.6.13",
     "async-mutex": "^0.1.3",
     "chalk": "^2.3.0",
     "child-process-es6-promise": "^1.2.1",
